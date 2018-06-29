@@ -1,0 +1,58 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# Node #
+########
+node_modules/
+*.log
+.idea
+haters/
+variables.env
+# variables.env.{development_environment_variable_ext_goes_here}
+
+# Sass #
+########
+.sass-cache
+*.css.map
+
+# Gulp Base Ignore #
+####################
+build
+*.node
+components
+coverage
+*.orig
+.idea
+sandbox
+test/out-fixtures/*
+test/watch-*.txt
+gulp.1
+
+git-credential-helper
+
+# Vagrant stuff
+acceptance_config.yml
+boxes/*
+/.vagrant
+/website/docs/.vagrant
+/website/www/.vagrant
+/vagrant-spec.config.rb
+
+# API Keys Config Dir #
+#######################
+**/apikeys

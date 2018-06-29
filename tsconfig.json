@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "noImplicitAny": true,
+      "target": "es5",
+      "removeComments": true,
+      "downlevelIteration": true
+    }
+  }
